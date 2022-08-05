@@ -18,8 +18,7 @@
 		<java.version>17</java.version>
 	</properties>
 	<scm>
-		<url>https://github.com/ahhnko/sfg-pet-clinic.git</url>
-		<connection>scm:git:https://github.com/ahhnko/sfg-pet-clinic.git</connection>
+		<developerConnection>scm:git:git@github.com:ahhnko/sfg-pet-clinic.git</developerConnection>
 		<tag>sfg-pet-clinic-0.0.1</tag>
 	</scm>
 	<build>
